@@ -10,7 +10,7 @@
 - :school: I'm student from **FPT University - Hòa Lạc Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Hà Nội City, Viet Nam**
-- :sweat_smile: I'm a newbie in coding :penguin:
+- :sweat_smile: I'm fresher dev
 - :monocle_face: I'm love Code, i like sky
 
 
