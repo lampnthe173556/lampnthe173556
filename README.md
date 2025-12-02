@@ -52,16 +52,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lampnthe173556&theme=tokyonight&hide_border=true" alt="Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lampnthe173556&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lampnthe173556&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-</div>
-
----
 
 ### 🤝 Connect with Me
 
