@@ -18,7 +18,7 @@
         <li>🎓 Student at: <b>FPT University - Hòa Lạc Campus</b></li>
         <li>💻 Major: <b>Software Engineering</b></li>
         <li>🌏 Location: <b>Hà Nội, Viet Nam</b></li>
-        <li>🎯 Current Focus: <b>Java Backend Developer & Spring Ecosystem</b></li>
+        <li>🎯 Current Focus: <b>Fresher Java</b></li>
         <li>📫 Contact: <a href="mailto:lampnthe173556@fpt.edu.vn">lampnthe173556@fpt.edu.vn</a></li>
       </ul>
     </td>
